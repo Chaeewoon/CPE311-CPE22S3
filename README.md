@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
+    <img width=300 src="https://media.tenor.com/P5EJALTMklMAAAAj/cinnamoroll.gif" alt="Cinnamoroll GIF"/>    
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=1000&color=E0DFF1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Greetings%2C+wanderer!+I'm+Gabriel!;Computational+Thinking+with+Python" alt="Greetings, wanderer! I'm Gabriel! Computational Thinking with Python" /></a>
