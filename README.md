@@ -9,6 +9,8 @@
 
 **Gabriel Immanuel R. Serrano**
 
+---
+
 # About me 
 
 Hello! I'm Gabriel Immanuel R. Serrano, a Computer Engineering student at the Technological Institute of the Philippines (TIP).
